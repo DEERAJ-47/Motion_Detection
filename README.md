@@ -3,6 +3,13 @@
 This Project is Created using Machine learning algorithm and Computer vision to detect and track the Motion. 
 Language:-Python
 
+
+
+This project is basically use to detect the human  motion and detect them using Computer vision
+And it also shows the angle of your elbow while you are doing curls and in addition it will also count the number of curls you have completed. 
+It basically used to track the motion of any person and to learn from their motion. 
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
