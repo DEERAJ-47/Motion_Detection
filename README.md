@@ -3,6 +3,11 @@
 This Project is Created using Machine learning algorithm and Computer vision to detect and track the Motion. 
 Language:-Python
 
+
+This project is used to detect and track the moving person where it will use some line drawn on a person to track there exact moment and show them later it also used as smart mirror in gyms because it calculate the number of curls you have done and it also used to tell the exact angle in which your hand is moving. 
+
+It also used to detect the motion of video as well as in live it can detect and track the person. 
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
